@@ -1,0 +1,1 @@
+Así que ¡ya están avisados!, ahora cuando te miremos mal y te digamos que tu función: _tiene guardas innecesarias_ no digas que no te avisamos :stuck_out_tongue:.

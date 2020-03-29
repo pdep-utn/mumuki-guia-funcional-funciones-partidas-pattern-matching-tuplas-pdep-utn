@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosParaSetenta
+  inspection: HasTypeSignature
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosParaSetenta
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosParaSetenta
+  inspection: Not:HasGuards

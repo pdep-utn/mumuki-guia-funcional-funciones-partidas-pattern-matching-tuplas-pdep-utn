@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: siempreDiceLaVerdad
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: siempreDiceLaVerdad
+  inspection: Not:HasGuards
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: siempreDiceLaVerdad
+  inspection: HasUsage:esBorracho
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: siempreDiceLaVerdad
+  inspection: HasUsage:esChico

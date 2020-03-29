@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasGuards
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasUsage:otherwise

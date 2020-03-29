@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estadoDeAnimo
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estadoDeAnimo
+  inspection: Not:HasGuards
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estadoDeAnimo
+  inspection: HasAnonymousVariable

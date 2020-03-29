@@ -1,0 +1,23 @@
+---
+name: 'Alternativas: Guardas y Patrones'
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: haskell
+id_format: "%05d"
+order:
+- 1
+- 2
+- 9
+- 3
+- 4
+- 10
+- 5
+- 11
+- 13
+- 6
+- 14
+- 7
+- 8
+private: false

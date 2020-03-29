@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
+  inspection: HasUsage:estudiaIngenieria
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
+  inspection: HasUsage:programa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
+  inspection: Not:HasUsage:&&

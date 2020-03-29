@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: distanciaAlOrigen
+  inspection: HasUsage:snd
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: distanciaAlOrigen
+  inspection: HasUsage:fst

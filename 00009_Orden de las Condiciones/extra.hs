@@ -1,0 +1,2 @@
+programa = snd
+estudiaIngenieria = fst
