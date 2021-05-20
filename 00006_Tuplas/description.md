@@ -4,7 +4,7 @@ Por supuesto que no. Pero para empezar a hacer cosas más interesantes, vamos a 
 
 Una herramienta para hacer esto es la tupla: un valor _compuesto_, es decir, conformado por otros valores. 
 
-La tupla tiene una cantidad de _elementos_ fija cantidad, pero no necesariamente deben ser todos del mismo tipo.
+La tupla tiene una cantidad de _elementos_ fija, pero no necesariamente deben ser todos del mismo tipo.
 
 Las tuplas son escritas entre paréntesis y los valores que la componen están separados por comas, algunos ejemplos de tuplas son:
 
